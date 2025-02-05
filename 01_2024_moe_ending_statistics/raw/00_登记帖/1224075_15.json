@@ -36,8 +36,8 @@
       "author": "带带带弯钩",
       "authorid": "2199674",
       "avatar": "https://tu.ts-dm.net/imgs/2022/06/dac2340514086549.gif",
-      "authortitle": "片翼天使LV.1",
-      "authorgid": "11",
+      "authortitle": "片翼天使LV.2",
+      "authorgid": "72",
       "author_nickname": "带带带弯钩",
       "timestamp": "1737204017",
       "subject": "",
@@ -162,11 +162,11 @@
   "thread_paid": 1,
   "extcreditsname": {
     "1": "威望",
-    "2": "天使币",
-    "6": "精灵",
-    "7": "金蛋",
     "4": "天然",
+    "5": "腹黑",
+    "7": "金蛋",
     "3": "宣传",
-    "5": "腹黑"
+    "6": "精灵",
+    "2": "天使币"
   }
 }
