@@ -1,0 +1,36 @@
+stage = "Season"
+registration_path = "raw/00_登记帖"
+
+[reward_policy.complete]
+ww = 30
+tsb = 50
+energy = 1
+credit = 10
+[reward_policy.missing1]
+ww = 20
+tsb = 40
+energy = 0
+credit = 0
+
+[[round]]
+name = "第一轮"
+[[round.group]]
+name = "天使之羽翼初赛"
+thread = [
+    { name = "第1组", path = "raw/01_天使之羽翼战初赛第1组" },
+    { name = "第2组", path = "raw/01_天使之羽翼战初赛第2组" },
+]
+[[round.group]]
+thread = [{ name = "天使之光环战初赛", path = "raw/01_天使之光环战初赛" }]
+#[[round.group]]
+#thread = [{ name = "初赛结果", path = "raw/01_初赛结果" }]
+
+# [[round]]
+# name = "第二轮"
+# [[round.group]]
+# thread = [{ name = "天使之羽翼战决赛", path = "raw/02_天使之羽翼战决赛" }]
+# [[round.group]]
+# thread = [{ name = "天使之光环战决赛", path = "raw/02_天使之光环战决赛" }]
+# [[round.group]]
+# thread = [{ name = "颁奖典礼", path = "raw/02_萌王之王颁奖典礼" }]
+
