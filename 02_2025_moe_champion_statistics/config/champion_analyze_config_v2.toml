@@ -16,12 +16,18 @@ credit = 0
 name = "第一轮"
 [[round.group]]
 name = "天使之羽翼初赛"
-thread = [
-    { name = "第1组", path = "raw/01_天使之羽翼战初赛第1组" },
-    { name = "第2组", path = "raw/01_天使之羽翼战初赛第2组" },
-]
-[[round.group]]
-thread = [{ name = "天使之光环战初赛", path = "raw/01_天使之光环战初赛" }]
+[[round.group.thread]]
+name = "第1组"
+path = "raw/01_天使之羽翼战初赛第1组"
+duplicate = [86]
+[[round.group.thread]]
+name = "第2组"
+path = "raw/01_天使之羽翼战初赛第2组"
+duplicate = [85]
+[[round.group.thread]]
+name = "天使之光环战初赛"
+path = "raw/01_天使之光环战初赛"
+duplicate = [85]
 #[[round.group]]
 #thread = [{ name = "初赛结果", path = "raw/01_初赛结果" }]
 
@@ -33,4 +39,3 @@ thread = [{ name = "天使之光环战初赛", path = "raw/01_天使之光环战
 # thread = [{ name = "天使之光环战决赛", path = "raw/02_天使之光环战决赛" }]
 # [[round.group]]
 # thread = [{ name = "颁奖典礼", path = "raw/02_萌王之王颁奖典礼" }]
-
