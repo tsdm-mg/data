@@ -120,6 +120,7 @@ choices = [
 ]
 max_choice = 6
 thread_type = "Poll"
+[[round.group]]
 [[round.group.thread]]
 name = "天使之光环战初赛"
 path = "raw/01_天使之光环战初赛"
@@ -161,11 +162,47 @@ thread_type = "Poll"
 [[round.group]]
 thread = [{ name = "初赛结果", path = "raw/01_初赛结果", thread_type = "PollResult" }]
 
-# [[round]]
-# name = "第二轮"
-# [[round.group]]
-# thread = [{ name = "天使之羽翼战决赛", path = "raw/02_天使之羽翼战决赛" }]
-# [[round.group]]
-# thread = [{ name = "天使之光环战决赛", path = "raw/02_天使之光环战决赛" }]
+[[round]]
+name = "第二轮"
+[[round.group]]
+[[round.group.thread]]
+name = "天使之羽翼战决赛"
+path = "raw/02_天使之羽翼战决赛"
+duplicate = []
+choices = [
+    [
+        "惠惠@为美好的世界献上祝福！",
+    ],
+    [
+        "爱蜜莉雅@Re:从零开始的异世界生活 2nd season(后半)",
+    ],
+    [
+        "木之本樱@魔卡少女樱 透明牌篇",
+    ],
+    [
+        "喜多川海梦@更衣人偶坠入爱河",
+    ],
+    [
+        "和泉纱雾@情色漫画老师",
+    ],
+    [
+        "芙莉莲@葬送的芙莉莲",
+    ],
+    [
+        "康娜@小林家的妹抖龙",
+    ],
+    [
+        "阿尼亚·福杰@间谍过家家(前半)",
+    ],
+]
+max_choice = 3
+thread_type = "Poll"
+[[round.group]]
+[[round.group.thread]]
+name = "天使之光环战决赛"
+path = "raw/02_天使之光环战决赛"
+choices = [["雪之下雪乃@我的青春恋爱物语果然有问题。完"], ["约尔·福杰@间谍过家家(前半)"], ["时崎狂三@约会大作战V"]]
+max_choice = 1
+thread_type = "Poll"
 # [[round.group]]
 # thread = [{ name = "颁奖典礼", path = "raw/02_萌王之王颁奖典礼" }]
