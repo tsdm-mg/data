@@ -204,5 +204,8 @@ path = "raw/02_天使之光环战决赛"
 choices = [["雪之下雪乃@我的青春恋爱物语果然有问题。完"], ["约尔·福杰@间谍过家家(前半)"], ["时崎狂三@约会大作战V"]]
 max_choice = 1
 thread_type = "Poll"
-# [[round.group]]
-# thread = [{ name = "颁奖典礼", path = "raw/02_萌王之王颁奖典礼" }]
+[[round.group]]
+[[round.group.thread]]
+name = "颁奖典礼"
+path = "raw/02_萌王之王颁奖典礼"
+thread_type = "PollResult"
