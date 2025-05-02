@@ -1,8 +1,8 @@
 [font=黑体][color=#000000][b]特殊积分指特殊活动期间获得的萌战积分。[/b][/color][/font]
 
 [b][color=Red][size=3]
-❤ 萌战版块荣耀成就B线：390分
-❤ 萌战版块荣耀成就A线：463分
+❤ 萌战版块荣耀成就B线：392分
+❤ 萌战版块荣耀成就A线：467分
 [/size][/color][/b]
 [table]
 [tr][td=72]ID[/td][td=64]萌战总积分[/td][td=64]发帖数量[/td][td=64]发帖积分[/td][td=64]特殊积分[/td][td=64]投票积分[/td][td=51]能量值[/td][/tr]
@@ -955,10 +955,10 @@
 [tr][td]s211327[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
 [tr][td]过客TSDM[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
 [tr][td]MelonAvis[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
-[tr][td]silveryvoid[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
 [tr][td]三叁princess[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
-[tr][td]yyttdbg[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
 [tr][td]敏琰慎行[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
+[tr][td]yyttdbg[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
+[tr][td]silveryvoid[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
 [tr][td]youriko[/td][td]10[/td][td]0[/td][td]0[/td][td]0[/td][td]10[/td][td]1[/td][/tr]
 [tr][td]781108724[/td][td]5[/td][td]0[/td][td]0[/td][td]5[/td][td]0[/td][td]0[/td][/tr]
 [tr][td]詩宇若[/td][td]5[/td][td]0[/td][td]0[/td][td]5[/td][td]0[/td][td]0[/td][/tr]
