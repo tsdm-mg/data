@@ -1,0 +1,559 @@
+stage = "Season"
+registration_path = "raw/00_登记"
+
+[reward_policy.complete]
+ww = 50
+tsb = 100
+xc = 10
+energy = 0
+credit = 10
+[reward_policy.missing1]
+ww = 40
+tsb = 80
+energy = 0
+credit = 0
+[reward_policy.missing2]
+ww = 30
+tsb = 60
+energy = 0
+credit = 0
+
+[[round]]
+name = "第一轮"
+[[round.group]]
+name = "初赛"
+[[round.group.thread]]
+name = "A组"
+path = "raw/01_初赛_a"
+duplicate = []
+choices = [
+    [
+        "北条沙都子&amp;古手梨花@寒蝉鸣泣之时",
+    ],
+    [
+        "大宫忍&amp;爱丽丝·卡塔雷特@HELLO!! 黄金拼图",
+    ],
+    [
+        "保登心爱&amp;香风智乃@请问您今天要来点兔子吗？？",
+    ],
+    [
+        "古宫乃乃香&amp;诺艾尔@天体的秩序",
+    ],
+    [
+        "南雫&amp;野田琴音@樱Trick",
+    ],
+    [
+        "黄前久美子&amp;高坂丽奈@吹响吧！上低音号 第三季",
+    ],
+    [
+        "萩生响&amp;江古田莲@ANNE HAPPY♪",
+    ],
+    [
+        "千矢&amp;巽绀@Urara迷路帖",
+    ],
+    [
+        "凑友希那&amp;今井莉莎@BanG Dream!",
+    ],
+    [
+        "天堂真矢&amp;西条克洛迪娜@少女☆歌剧 Revue Starlight",
+    ],
+    [
+        "小糸侑&amp;七海灯子@终将成为你",
+    ],
+    [
+        "十仓荣依子&amp;千石冠@Slow Start",
+    ],
+    [
+        "小邪神&amp;花园百合铃@邪神与厨二病少女",
+    ],
+    [
+        "安达樱&amp;岛村抱月@安达与岛村",
+    ],
+    [
+        "绘里飘&amp;市井舞菜@神推偶像登上武道馆我就死而无憾",
+    ],
+    [
+        "高咲侑&amp;上原步梦@Love Live! 虹咲学园校园偶像同好会",
+    ],
+    [
+        "美树沙耶香&amp;佐仓杏子@魔法少女小圆",
+    ],
+    [
+        "玛瑙&amp;时任灯里@处刑少女的生存之道",
+    ],
+    [
+        "间宫果乃子&amp;知花纯加@我的百合乃工作是也！",
+    ],
+    [
+        "三角初华&amp;丰川祥子@BanG Dream! Ave Mujica",
+    ],
+    [
+        "缇拉鞠・加德斯布拉德&amp;薇儿赫泽@家里蹲吸血姬的苦闷",
+    ],
+    [
+        "春山花奈&amp;薄赖瑞希@群花绽放，彷如修罗",
+    ],
+    [
+        "安洁·勒卡雷&amp;公主@公主准则",
+    ],
+    [
+        "谏山黄泉&amp;土宫神乐@食灵-零-",
+    ],
+    [
+        "河合真子&amp;古馆九礼亚@时光流逝，饭菜依旧美味",
+    ],
+]
+max_choice = 8
+thread_type = "Poll"
+[[round.group.thread]]
+name = "B组"
+path = "raw/01_初赛_b"
+duplicate = []
+choices = [
+    [
+        "御坂美琴&amp;白井黑子@某科学的超电磁炮S",
+    ],
+    [
+        "小路绫&amp;猪熊阳子@HELLO!! 黄金拼图",
+    ],
+    [
+        "天天座理世&amp;桐间纱路@请问您今天要来点兔子吗？？",
+    ],
+    [
+        "古宫乃乃香&amp;户川汐音@天体的秩序",
+    ],
+    [
+        "饭冢柚&amp;池野枫@樱Trick",
+    ],
+    [
+        "凉风青叶&amp;泷本日富美@NEW GAME!!",
+    ],
+    [
+        "柚&amp;皋@此花亭奇谭",
+    ],
+    [
+        "尤弥尔&amp;希丝特莉亚·雷斯@进击的巨人 第二季",
+    ],
+    [
+        "小林&amp;托尔@小林家的龙女仆",
+    ],
+    [
+        "卫藤可奈美&amp;十条姬和@刀使巫女",
+    ],
+    [
+        "索菲·特瓦伊莱特&amp;天野灯@邻家的吸血鬼小妹",
+    ],
+    [
+        "蓝原柚子&amp;蓝原芽衣@citrus",
+    ],
+    [
+        "吉田优子&amp;千代田桃@街角魔族",
+    ],
+    [
+        "结爱自&amp;须理出未来@Do It Yourself!!",
+    ],
+    [
+        "一柳梨璃&amp;白井梦结@突击莉莉 BOUQUET",
+    ],
+    [
+        "涩谷香音&amp;岚千砂都@LoveLive!Superstar!!",
+    ],
+    [
+        "环彩羽&amp;七海八千代@魔法纪录",
+    ],
+    [
+        "锦木千束&amp;井上泷奈@莉可丽丝",
+    ],
+    [
+        "零·缇拉&amp;克蕾雅·弗朗索瓦@我推是反派大小姐。",
+    ],
+    [
+        "若叶睦&amp;丰川祥子@BanG Dream! Ave Mujica",
+    ],
+    [
+        "佐藤由美子&amp;渡边千佳@声优广播的幕前幕后",
+    ],
+    [
+        "柊娜娜&amp;犬饲满@无能力者娜娜",
+    ],
+    [
+        "夏目玲子&amp;苍子@夏目友人帐 漆",
+    ],
+    [
+        "柯蕾&amp;贝尔@地下城里的人们",
+    ],
+    [
+        "国木田花丸&amp;黑泽露比@LoveLive! Sunshine!! 第二季",
+    ],
+]
+max_choice = 8
+thread_type = "Poll"
+[[round.group.thread]]
+name = "C组"
+path = "raw/01_初赛_c"
+duplicate = []
+choices = [
+    [
+        "秋山澪&amp;田井中律@轻音少女 第二季",
+    ],
+    [
+        "西木野真姬&amp;矢泽妮可@LoveLive!第二季",
+    ],
+    [
+        "岁纳京子&amp;杉浦绫乃@摇曳百合 3☆High!",
+    ],
+    [
+        "东兔角&amp;一之濑晴@恶魔之谜",
+    ],
+    [
+        "吉川优子&amp;中川夏纪@吹响吧！上低音号 第三季",
+    ],
+    [
+        "八神光&amp;远山伦@NEW GAME!!",
+    ],
+    [
+        "莲&amp;枣@此花亭奇谭",
+    ],
+    [
+        "户山香澄&amp;市谷有咲@BanG Dream!",
+    ],
+    [
+        "结城明日奈&amp;绀野木绵季@刀剑神域Ⅱ",
+    ],
+    [
+        "特别周&amp;无声铃鹿@赛马娘 Pretty Derby",
+    ],
+    [
+        "松坂砂糖&amp;神户盐@Happy Sugar Life",
+    ],
+    [
+        "各务原抚子&amp;志摩凛@摇曳露营△",
+    ],
+    [
+        "星野宫子&amp;白咲花@天使降临到了我身边！",
+    ],
+    [
+        "武田咏深&amp;山崎珠姬@球咏",
+    ],
+    [
+        "缇亚拉·维多利亚·雷克斯·维尔兰德&amp;洛赛塔@宝石幻想 光芒重现",
+    ],
+    [
+        "唐可可&amp;平安名堇@LoveLive!Superstar!!",
+    ],
+    [
+        "纸越空鱼&amp;仁科鸟子@里世界郊游",
+    ],
+    [
+        "斯莱塔·墨丘利&amp;米奥莉奈·伦布兰@机动战士高达 水星的魔女",
+    ],
+    [
+        "高松灯&amp;千早爱音@BanG Dream! It's MyGO!!!!!",
+    ],
+    [
+        "小之星海果&amp;明内幽@星灵感应",
+    ],
+    [
+        "木野日鞠&amp;朝凪依@恋语轻唱",
+    ],
+    [
+        "宝多六花&amp;新条茜@SSSS.GRIDMAN",
+    ],
+    [
+        "来栖川姬子&amp;姬宫千歌音@神无月的巫女",
+    ],
+    [
+        "草隐里子&amp;古贺木叶@忍者与杀手二人组的日常生活",
+    ],
+    [
+        "雨宫皋月&amp;雾山杏@mono",
+    ],
+]
+max_choice = 8
+thread_type = "Poll"
+[[round.group.thread]]
+name = "D组"
+path = "raw/01_初赛_d"
+duplicate = []
+choices = [
+    [
+        "百木伦&amp;一井透@A频道",
+    ],
+    [
+        "结城友奈&amp;东乡美森@结城友奈是勇者",
+    ],
+    [
+        "船见结衣&amp;吉川千夏@摇曳百合 3☆High!",
+    ],
+    [
+        "高山春香&amp;园田优@樱Trick",
+    ],
+    [
+        "铠冢霙&amp;伞木希美@吹响吧！上低音号 第三季",
+    ],
+    [
+        "伊泽塔&amp;菲涅@终末的伊泽塔",
+    ],
+    [
+        "千户&amp;尤莉@少女终末旅行",
+    ],
+    [
+        "美竹兰&amp;青叶摩卡@BanG Dream!",
+    ],
+    [
+        "爱城华恋&amp;神乐光@少女☆歌剧 Revue Starlight",
+    ],
+    [
+        "东海帝王&amp;目白麦昆@赛马娘 Pretty Derby",
+    ],
+    [
+        "胜木翼&amp;恋冢小梦@Comic Girls",
+    ],
+    [
+        "朝雾彩&amp;奴村露乃@魔法少女网站",
+    ],
+    [
+        "木之幡米拉&amp;真中苍@恋爱小行星",
+    ],
+    [
+        "伊蕾娜&amp;沙耶@魔女之旅",
+    ],
+    [
+        "本条枫&amp;白峰理沙@因为太怕痛就全点防御力了。",
+    ],
+    [
+        "鹿目圆&amp;晓美焰@魔法少女小圆",
+    ],
+    [
+        "后藤一里&amp;喜多郁代@孤独摇滚！",
+    ],
+    [
+        "白木阳芽&amp;矢野美月@我的百合乃工作是也！",
+    ],
+    [
+        "千早爱音&amp;长崎爽世@BanG Dream! It's MyGO!!!!!",
+    ],
+    [
+        "艾妮丝菲亚·温·帕雷提亚&amp;尤菲莉亚·玛赞塔@转生王女和天才千金的魔法革命",
+    ],
+    [
+        "水口亚季&amp;泉志帆@恋语轻唱",
+    ],
+    [
+        "光月真昼&amp;山之内花音@夜晚的水母不会游泳",
+    ],
+    [
+        "本城游理&amp;二濑真由子@天空侵犯",
+    ],
+    [
+        "铃之宫莉莉纱&amp;黑铁音羽@摇滚乐是淑女的嗜好",
+    ],
+]
+max_choice = 8
+thread_type = "Poll"
+[[round.group]]
+[[round.group.thread]]
+name = "初赛结果"
+path = "raw/01_初赛结果"
+thread_type = "PollResult"
+[[round]]
+name = "第二轮"
+[[round.group]]
+name = "复赛"
+[[round.group.thread]]
+name = "A组"
+path = "raw/02_复赛_a"
+choices = [
+    [
+        "保登心爱&amp;香风智乃@请问您今天要来点兔子吗？？",
+    ],
+    [
+        "美树沙耶香&amp;佐仓杏子@魔法少女小圆",
+    ],
+    [
+        "锦木千束&amp;井上泷奈@莉可丽丝",
+    ],
+    [
+        "秋山澪&amp;田井中律@轻音少女 第二季",
+    ],
+    [
+        "结城明日奈&amp;绀野木绵季@刀剑神域Ⅱ",
+    ],
+    [
+        "后藤一里&amp;喜多郁代@孤独摇滚！",
+    ],
+    [
+        "东海帝王&amp;目白麦昆@赛马娘 Pretty Derby",
+    ],
+]
+max_choice = 3
+thread_type = "Poll"
+[[round.group.thread]]
+name = "B组"
+path = "raw/02_复赛_b"
+choices = [
+    [
+        "安达樱&amp;岛村抱月@安达与岛村",
+    ],
+    [
+        "黄前久美子&amp;高坂丽奈@吹响吧！上低音号 第三季",
+    ],
+    [
+        "天天座理世&amp;桐间纱路@请问您今天要来点兔子吗？？",
+    ],
+    [
+        "各务原抚子&amp;志摩凛@摇曳露营△",
+    ],
+    [
+        "岁纳京子&amp;杉浦绫乃@摇曳百合 3☆High!",
+    ],
+    [
+        "千户&amp;尤莉@少女终末旅行",
+    ],
+]
+max_choice = 3
+thread_type = "Poll"
+[[round.group.thread]]
+name = "C组"
+path = "raw/02_复赛_c"
+revised = [169]
+choices = [
+    [
+        "小糸侑&amp;七海灯子@终将成为你",
+    ],
+    [
+        "御坂美琴&amp;白井黑子@某科学的超电磁炮S",
+    ],
+    [
+        "吉田优子&amp;千代田桃@街角魔族",
+    ],
+    [
+        "西木野真姬&amp;矢泽妮可@LoveLive!第二季",
+    ],
+    [
+        "千早爱音&amp;长崎爽世@BanG Dream! It's MyGO!!!!!",
+    ],
+    [
+        "结城友奈&amp;东乡美森@结城友奈是勇者",
+    ],
+]
+max_choice = 3
+thread_type = "Poll"
+[[round.group.thread]]
+name = "D组"
+path = "raw/02_复赛_d"
+revised = [169]
+choices = [
+    [
+        "三角初华&amp;丰川祥子@BanG Dream! Ave Mujica",
+    ],
+    [
+        "小林&amp;托尔@小林家的龙女仆",
+    ],
+    [
+        "若叶睦&amp;丰川祥子@BanG Dream! Ave Mujica",
+    ],
+    [
+        "高松灯&amp;千早爱音@BanG Dream! It's MyGO!!!!!",
+    ],
+    [
+        "鹿目圆&amp;晓美焰@魔法少女小圆",
+    ],
+    [
+        "铠冢霙&amp;伞木希美@吹响吧！上低音号 第三季",
+    ],
+]
+max_choice = 3
+thread_type = "Poll"
+[[round.group]]
+[[round.group.thread]]
+name = "复赛结果"
+path = "raw/02_复赛结果"
+thread_type = "PollResult"
+[[round]]
+name = "第三轮"
+[[round.group]]
+name = "半决赛"
+[[round.group.thread]]
+name = "A组"
+path = "raw/03_半决赛_a"
+duplicate = []
+choices = [
+    [
+        "保登心爱&amp;香风智乃@请问您今天要来点兔子吗？？",
+    ],
+    [
+        "后藤一里&amp;喜多郁代@孤独摇滚！",
+    ],
+    [
+        "各务原抚子&amp;志摩凛@摇曳露营△",
+    ],
+    [
+        "千早爱音&amp;长崎爽世@BanG Dream! It's MyGO!!!!!",
+    ],
+    [
+        "吉田优子&amp;千代田桃@街角魔族",
+    ],
+    [
+        "小林&amp;托尔@小林家的龙女仆",
+    ],
+]
+max_choice = 2
+thread_type = "Poll"
+[[round.group.thread]]
+name = "B组"
+path = "raw/03_半决赛_b"
+duplicate = []
+choices = [
+    [
+        "锦木千束&amp;井上泷奈@莉可丽丝",
+    ],
+    [
+        "安达樱&amp;岛村抱月@安达与岛村",
+    ],
+    [
+        "天天座理世&amp;桐间纱路@请问您今天要来点兔子吗？？",
+    ],
+    [
+        "御坂美琴&amp;白井黑子@某科学的超电磁炮S",
+    ],
+    [
+        "鹿目圆&amp;晓美焰@魔法少女小圆",
+    ],
+    [
+        "三角初华&amp;丰川祥子@BanG Dream! Ave Mujica",
+    ],
+]
+max_choice = 2
+thread_type = "Poll"
+[[round.group.thread]]
+name = "半决赛结果"
+path = "raw/03_半决赛结果"
+thread_type = "PollResult"
+[[round]]
+name = "第四轮"
+[[round.group]]
+[[round.group.thread]]
+name = "总决赛"
+path = "raw/04_总决赛"
+choices = [
+    [
+        "千早爱音&amp;长崎爽世@BanG Dream! It's MyGO!!!!!",
+    ],
+    [
+        "锦木千束&amp;井上泷奈@莉可丽丝",
+    ],
+    [
+        "小林&amp;托尔@小林家的龙女仆",
+    ],
+    [
+        "鹿目圆&amp;晓美焰@魔法少女小圆",
+    ],
+]
+max_choice = 1
+thread_type = "Poll"
+[[round.group]]
+[[round.group.thread]]
+name = "总决赛结果"
+path = "raw/04_总决赛结果"
+thread_type = "PollResult"
