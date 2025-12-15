@@ -1,0 +1,48 @@
+stage = "Season"
+registration_path = "raw/00_登记"
+
+[reward_policy.complete]
+ww = 10
+tsb = 20
+energy = 0
+xc = 1
+credit = 5
+[reward_policy.missing1]
+ww = 0
+tsb = 0
+energy = 0
+credit = 0
+
+[[round]]
+name = "第一轮"
+[[round.group]]
+[[round.group.thread]]
+name = "总决赛"
+path = "raw/01_总决赛"
+duplicate = []
+choices = [
+    [
+        "利威尔·阿克曼@进击的巨人",
+    ],
+    [
+        "五条悟@咒术回战",
+    ],
+    [
+        "利姆露@关于我转生变成史莱姆这档事",
+    ],
+    [
+        "劳埃德·福杰@间谍过家家",
+    ],
+    [
+        "夏目贵志@夏目友人帐",
+    ],
+]
+max_choice = 2
+thread_type = "Poll"
+
+[[round.group]]
+[[round.group.thread]]
+name = "决赛结果"
+path = "raw/01_决赛结果"
+thread_type = "PollResult"
+duplicate = []
