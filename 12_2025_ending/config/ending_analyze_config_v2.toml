@@ -1,0 +1,277 @@
+stage = "Ending"
+registration_path = "raw/00_登记帖"
+
+[reward_policy.complete]
+ww = 50
+tsb = 100
+energy = 2
+credit = 10
+[reward_policy.missing1]
+ww = 40
+tsb = 80
+energy = 0
+credit = 0
+[reward_policy.missing2]
+ww = 30
+tsb = 60
+energy = 0
+credit = 0
+
+[[round]]
+name = "第一轮"
+[[round.group]]
+name = "初赛"
+[[round.group.thread]]
+name = "A组"
+path = "raw/01_初赛_a"
+duplicate = []
+choices = [
+    [
+        "丰川祥子@BanG Dream! Ave Mujica",
+    ],
+    [
+        "鸣濑白羽@Summer Pockets",
+    ],
+    [
+        "莫妮卡·埃瓦雷特@沉默的魔女",
+    ],
+    [
+        "乱马@乱马1/2 第2期",
+    ],
+    [
+        "好本静@超超超超超喜欢你的100个女朋友 第2期",
+    ],
+    [
+        "古馆九礼亚@时光流逝，饭菜依旧美味",
+    ],
+    [
+        "梓川花枫@青春猪头少年不做迷你裙圣诞老人的梦",
+    ],
+    [
+        "西野明日风@千岁同学在波子汽水瓶内",
+    ],
+    [
+        "花园羽羽里@超超超超超喜欢你的100个女朋友 第2期",
+    ],
+    [
+        "贝姬·布莱克贝尔@间谍过家家 Season 3",
+    ],
+    [
+        "阿莉娜·克洛瓦@虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
+    ],
+    [
+        "战栗的龙卷@一拳超人 第3期",
+    ],
+    [
+        "濑名紫阳花@我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
+    ],
+]
+max_choice = 12
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "B组"
+path = "raw/01_初赛_b"
+duplicate = []
+choices = [
+    [
+        "紫云寺讴华@紫云寺家的孩子们",
+    ],
+    [
+        "樱岛麻衣@青春猪头少年不做迷你裙圣诞老人的梦",
+    ],
+    [
+        "神乐@3年Z班银八老师",
+    ],
+    [
+        "结束祈@金牌得主",
+    ],
+    [
+        "䌷文德斯@Summer Pockets",
+    ],
+    [
+        "双叶理央@青春猪头少年不做迷你裙圣诞老人的梦",
+    ],
+    [
+        "青海阳@千岁同学在波子汽水瓶内",
+    ],
+    [
+        "花园羽香里@超超超超超喜欢你的100个女朋友 第2期",
+    ],
+    [
+        "千早爱音@BanG Dream! Ave Mujica",
+    ],
+    [
+        "小栗帽@赛马娘 芦毛灰姑娘(前半)",
+    ],
+    [
+        "水原千鹤@租借女友 4期(前半)",
+    ],
+    [
+        "珊璞@乱马1/2 第2期",
+    ],
+]
+max_choice = 12
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "C组"
+path = "raw/01_初赛_c"
+duplicate = []
+choices = [
+    [
+        "喜多川海梦@更衣人偶坠入爱河 Season 2",
+    ],
+    [
+        "柊夕湖@千岁同学在波子汽水瓶内",
+    ],
+    [
+        "狼嵜光@金牌得主",
+    ],
+    [
+        "小川诗音@时光流逝，饭菜依旧美味",
+    ],
+    [
+        "古手川千纱@碧蓝之海 Season 2",
+    ],
+    [
+        "小日向彩羽@朋友的妹妹只缠着我",
+    ],
+    [
+        "荣逢凪乃@超超超超超喜欢你的100个女朋友 第2期",
+    ],
+    [
+        "久岛鸥@Summer Pockets",
+    ],
+    [
+        "阿波连玲奈@测不准的阿波连同学 season2",
+    ],
+    [
+        "更科瑠夏@租借女友 4期(前半)",
+    ],
+    [
+        "河合真子@时光流逝，饭菜依旧美味",
+    ],
+    [
+        "北条糸青@我决定和班上最讨厌的女生结婚了",
+    ],
+]
+max_choice = 12
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "D组"
+path = "raw/01_初赛_d"
+duplicate = []
+choices = [
+    [
+        "阿尼亚·福杰@间谍过家家 Season 3",
+    ],
+    [
+        "猫猫@药师少女的独语 第2期",
+    ],
+    [
+        "空门苍@Summer Pockets",
+    ],
+    [
+        "乾纱寿叶@更衣人偶坠入爱河 Season 2",
+    ],
+    [
+        "七濑悠月@千岁同学在波子汽水瓶内",
+    ],
+    [
+        "院田唐音@超超超超超喜欢你的100个女朋友 第2期",
+    ],
+    [
+        "加藤羽未@Summer Pockets",
+    ],
+    [
+        "古贺朋绘@青春猪头少年不做迷你裙圣诞老人的梦",
+    ],
+    [
+        "甘织玲奈子@我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
+    ],
+    [
+        "内田优空@千岁同学在波子汽水瓶内",
+    ],
+    [
+        "长崎爽世@BanG Dream! Ave Mujica",
+    ],
+    [
+        "若月妮可@魔女与使魔",
+    ],
+]
+max_choice = 12
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "结果"
+path = "raw/01_初赛结果"
+thread_type = "PollResult"
+
+
+[[round]]
+name = "第二轮"
+[[round.group]]
+name = "四分之一决赛"
+[[round.group.thread]]
+name = "第1组"
+path = "raw/02_四分之一决赛_1"
+duplicate = []
+choices = [
+    [
+        "鸣濑白羽@Summer Pockets",
+    ],
+    [
+        "樱岛麻衣@青春猪头少年不做迷你裙圣诞老人的梦",
+    ],
+    [
+        "更科瑠夏@租借女友 4期(前半)",
+    ],
+]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "第2组"
+path = "raw/02_四分之一决赛_2"
+duplicate = []
+choices = [
+    [
+        "千早爱音@BanG Dream! Ave Mujica",
+    ],
+    [
+        "濑名紫阳花@我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
+    ],
+    [
+        "阿尼亚·福杰@间谍过家家 Season 3",
+    ],
+]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "第3组"
+path = "raw/02_四分之一决赛_3"
+duplicate = []
+choices = [
+    [
+        "喜多川海梦@更衣人偶坠入爱河 Season 2",
+    ],
+    [
+        "甘织玲奈子@我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
+    ],
+    [
+        "莫妮卡·埃瓦雷特@沉默的魔女",
+    ],
+]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "第4组"
+path = "raw/02_四分之一决赛_4"
+duplicate = []
+choices = [["猫猫@药师少女的独语 第2期"], ["柊夕湖@千岁同学在波子汽水瓶内"], ["紫云寺讴华@紫云寺家的孩子们"]]
+max_choice = 1
+thread_type = "Poll"
