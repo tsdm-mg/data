@@ -18,7 +18,7 @@
   "from_where": "m78星云",
   "qq": "3777918516",
   "check_in_days_count": 24,
-  "check_in_this_month_count": "4",
+  "check_in_this_month_count": "0",
   "check_in_recent_time": "2026-01-15 15:29",
   "check_in_all_coins": "165",
   "check_in_last_time_coins": "[LV.5]常住居民I",
@@ -35,13 +35,13 @@
   "last_post_time": "2026-1-15 15:31",
   "timezone": "使用系统默认",
   "credits": {
+    "威望": "341",
+    "天使币": "478",
+    "魔法石": "0",
+    "积分": "341",
+    "腹黑": "65",
+    "天然": "70",
     "宣传": "1",
-    "威望": "301",
-    "天使币": "398",
-    "天然": "55",
-    "腹黑": "50",
-    "精灵": "0",
-    "积分": "301",
-    "魔法石": "0"
+    "精灵": "0"
   }
 }

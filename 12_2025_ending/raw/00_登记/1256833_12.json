@@ -15,8 +15,22 @@
       "first": "0",
       "floor": 111,
       "platform": 0,
-      "ratelog": [],
-      "ratelogextcredits": []
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "决赛开始",
+          "score": [
+            "5:25",
+            "4:25"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:25",
+        "5:25"
+      ]
     },
     {
       "pid": "77331670",
@@ -32,8 +46,22 @@
       "first": "0",
       "floor": 112,
       "platform": 0,
-      "ratelog": [],
-      "ratelogextcredits": []
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "半决赛投票开始",
+          "score": [
+            "5:15",
+            "4:15"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:15",
+        "5:15"
+      ]
     },
     {
       "pid": "77331712",
@@ -49,8 +77,22 @@
       "first": "0",
       "floor": 113,
       "platform": 0,
-      "ratelog": [],
-      "ratelogextcredits": []
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "半决赛投票开始",
+          "score": [
+            "4:15",
+            "5:15"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:15",
+        "5:15"
+      ]
     },
     {
       "pid": "77334158",
@@ -66,8 +108,22 @@
       "first": "0",
       "floor": 114,
       "platform": 0,
-      "ratelog": [],
-      "ratelogextcredits": []
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "决赛开始",
+          "score": [
+            "5:25",
+            "4:25"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:25",
+        "5:25"
+      ]
     },
     {
       "pid": "77334429",
@@ -83,8 +139,22 @@
       "first": "0",
       "floor": 115,
       "platform": 0,
-      "ratelog": [],
-      "ratelogextcredits": []
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "决赛开始",
+          "score": [
+            "5:25",
+            "4:25"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:25",
+        "5:25"
+      ]
     },
     {
       "pid": "77339094",
@@ -117,8 +187,22 @@
       "first": "0",
       "floor": 117,
       "platform": 0,
-      "ratelog": [],
-      "ratelogextcredits": []
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "决赛开始",
+          "score": [
+            "4:25",
+            "5:25"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:25",
+        "5:25"
+      ]
     },
     {
       "pid": "77342801",
@@ -134,11 +218,73 @@
       "first": "0",
       "floor": 118,
       "platform": 0,
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "OK这楼正好是分割线",
+          "score": [
+            "4:200",
+            "5:200"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:200",
+        "5:200"
+      ]
+    },
+    {
+      "pid": "77349903",
+      "author": "30岁的魔法使",
+      "authorid": "1991568",
+      "avatar": "http://i.ibb.co/4d8mSMQ/fe390c24ab18972b6527c369e1cd7b899e510a27.png",
+      "authortitle": "水天使",
+      "authorgid": "12",
+      "author_nickname": "魔法使",
+      "timestamp": "1767968393",
+      "subject": "",
+      "message": "ID：<br />UID：<br /><br />本人承诺在本帖登记的所有投票帖的晒票回复均在投票期间按要求点击复制投票内容按钮生成，晒票格式不规范、内容与个人投票不符或超期编辑将自愿放弃晒票奖励和全过程参与奖励<br /><br />以下仅供确认都有哪些帖子需按要求回复或者个人核对参与情况参考用。<br />非强制登记，可不在此填写链接，但需按要求在对应投票帖正确晒票，在对应结果帖回复结果。<br /><br />——第一轮——<br />初赛A组：<br />初赛B组：<br />初赛C组：<br />初赛D组：<br />初赛结果：<br /><br />——第二轮——<br />四分之一决赛第1组：<br />四分之一决赛第2组：<br />四分之一决赛第3组：<br />四分之一决赛第4组：<br />四分之一决赛结果：<br /><br />——第三轮——<br />半决赛第1组：<br />半决赛第2组：<br />附属赛事－排位赛第一场：<br />半决赛结果：<br /><br />——第四轮——<br />总决赛：<br />附属赛事－排位赛第二场：<br /><br />闭幕总结&amp;颁奖典礼：",
+      "first": "0",
+      "floor": 119,
+      "platform": 0,
+      "ratelog": [
+        {
+          "uid": 1202448,
+          "username": "YQ17",
+          "status": 0,
+          "reason": "半决赛投票开始",
+          "score": [
+            "4:10",
+            "5:10"
+          ]
+        }
+      ],
+      "ratelogextcredits": [
+        "4:10",
+        "5:10"
+      ]
+    },
+    {
+      "pid": "77349921",
+      "author": "huiyi22",
+      "authorid": "1953089",
+      "avatar": "http://i.loli.net/2020/10/28/VdNyIJnPEjQY6cs.jpg",
+      "authortitle": "片翼天使LV.2",
+      "authorgid": "72",
+      "author_nickname": "阿呆",
+      "timestamp": "1767968603",
+      "subject": "",
+      "message": "ID：<br />UID：<br /><br />本人承诺在本帖登记的所有投票帖的晒票回复均在投票期间按要求点击复制投票内容按钮生成，晒票格式不规范、内容与个人投票不符或超期编辑将自愿放弃晒票奖励和全过程参与奖励<br /><br />以下仅供确认都有哪些帖子需按要求回复或者个人核对参与情况参考用。<br />非强制登记，可不在此填写链接，但需按要求在对应投票帖正确晒票，在对应结果帖回复结果。<br /><br />——第一轮——<br />初赛A组：<br />初赛B组：<br />初赛C组：<br />初赛D组：<br />初赛结果：<br /><br />——第二轮——<br />四分之一决赛第1组：<br />四分之一决赛第2组：<br />四分之一决赛第3组：<br />四分之一决赛第4组：<br />四分之一决赛结果：<br /><br />——第三轮——<br />半决赛第1组：<br />半决赛第2组：<br />附属赛事－排位赛第一场：<br />半决赛结果：<br /><br />——第四轮——<br />总决赛：<br />附属赛事－排位赛第二场：<br /><br />闭幕总结&amp;颁奖典礼：",
+      "first": "0",
+      "floor": 120,
+      "platform": 0,
       "ratelog": [],
       "ratelogextcredits": []
     }
   ],
-  "totalpost": "117",
+  "totalpost": "195",
   "tpp": 10,
   "fid": "418",
   "thread_author": "ruik0",
@@ -147,12 +293,12 @@
   "thread_price": "0",
   "thread_paid": 1,
   "extcreditsname": {
-    "7": "魔法石",
-    "3": "宣传",
-    "2": "天使币",
-    "4": "天然",
-    "1": "威望",
     "5": "腹黑",
-    "6": "精灵"
+    "6": "精灵",
+    "7": "魔法石",
+    "2": "天使币",
+    "3": "宣传",
+    "1": "威望",
+    "4": "天然"
   }
 }

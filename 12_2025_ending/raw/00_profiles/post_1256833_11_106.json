@@ -18,7 +18,7 @@
   "from_where": "深海的大菠萝",
   "qq": "保密",
   "check_in_days_count": 6,
-  "check_in_this_month_count": "6",
+  "check_in_this_month_count": "0",
   "check_in_recent_time": "2026-01-15 15:16",
   "check_in_all_coins": "39",
   "check_in_last_time_coins": "[LV.3]偶尔看看II",
@@ -35,13 +35,13 @@
   "last_post_time": "2026-1-15 15:16",
   "timezone": "使用系统默认",
   "credits": {
-    "积分": "302",
-    "精灵": "0",
-    "腹黑": "24",
-    "威望": "302",
-    "天然": "29",
+    "威望": "342",
+    "天使币": "197",
+    "宣传": "0",
     "魔法石": "0",
-    "天使币": "117",
-    "宣传": "0"
+    "精灵": "0",
+    "腹黑": "39",
+    "天然": "44",
+    "积分": "342"
   }
 }

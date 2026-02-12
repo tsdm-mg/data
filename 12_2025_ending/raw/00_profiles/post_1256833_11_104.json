@@ -18,7 +18,7 @@
   "from_where": null,
   "qq": null,
   "check_in_days_count": 170,
-  "check_in_this_month_count": "1",
+  "check_in_this_month_count": "0",
   "check_in_recent_time": "2026-01-06 12:36",
   "check_in_all_coins": "1273",
   "check_in_last_time_coins": "[LV.9]以坛为家II",
@@ -30,18 +30,18 @@
   "user_group": "昼天使",
   "online_time": "105 小时",
   "register_time": "2020-10-8 02:24",
-  "last_visit_time": "2026-1-14 14:12",
-  "last_active_time": "2026-1-14 14:12",
+  "last_visit_time": "2026-1-25 22:45",
+  "last_active_time": "2026-1-25 22:45",
   "last_post_time": "2026-1-14 14:14",
   "timezone": "使用系统默认",
   "credits": {
-    "精灵": "0",
-    "威望": "785",
-    "积分": "785",
+    "积分": "805",
+    "威望": "805",
     "宣传": "0",
-    "天然": "20",
-    "腹黑": "20",
-    "天使币": "2461",
-    "魔法石": "0"
+    "魔法石": "0",
+    "天然": "25",
+    "腹黑": "25",
+    "天使币": "2501",
+    "精灵": "0"
   }
 }

@@ -1,5 +1,63 @@
 stage = "Ending"
-registration_path = "raw/00_登记帖"
+registration_path = "raw/00_登记"
+
+banned_uids = [
+    1977736,
+    1977848,
+    1935507,
+    1977728,
+    1988281,
+    1946418,
+    1991754,
+    1953087,
+    1946422,
+    1976931,
+    1985621,
+    1977843,
+    1946423,
+    1978899,
+    1454716,
+    1985611,
+    1985618,
+    1977721,
+    1978338,
+    1941260,
+    1980019,
+    1977827,
+    1953089,
+    1977833,
+    1985608,
+    1991568,
+    1953089,
+    1946428,
+    1978208,
+    1977734,
+    1991734,
+    1985620,
+    1977737,
+    1977836,
+    1992460,
+    1991617,
+    1980018,
+    1978353,
+    1977841,
+    1977731,
+    1977832,
+    1946416,
+    1977845,
+    1985609,
+    1979170,
+    1979178,
+    1946429,
+    1991732,
+    1985613,
+    1946414,
+    1946427,
+    1980039,
+    1977844,
+    1941262,
+    1935494,
+]
 
 [reward_policy.complete]
 ww = 50
@@ -273,5 +331,88 @@ name = "第4组"
 path = "raw/02_四分之一决赛_4"
 duplicate = []
 choices = [["猫猫@药师少女的独语 第2期"], ["柊夕湖@千岁同学在波子汽水瓶内"], ["紫云寺讴华@紫云寺家的孩子们"]]
+max_choice = 1
+thread_type = "Poll"
+
+
+[[round.group]]
+[[round.group.thread]]
+name = "四分之一决赛结果"
+path = "raw/02_四分之一决赛结果"
+thread_type = "PollResult"
+
+[[round]]
+name = "第三轮"
+
+[[round.group]]
+name = "半决赛"
+[[round.group.thread]]
+name = "第1组"
+path = "raw/03_半决赛_1"
+choices = [["樱岛麻衣@青春猪头少年不做迷你裙圣诞老人的梦"], ["千早爱音@BanG Dream! Ave Mujica"]]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group.thread]]
+name = "第2组"
+path = "raw/03_半决赛_2"
+choices = [["喜多川海梦@更衣人偶坠入爱河 Season 2"], ["猫猫@药师少女的独语 第2期"]]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group]]
+[[round.group.thread]]
+name = "排位赛第一场"
+path = "raw/03_排位赛第一场"
+choices = [
+    [
+        "鸣濑白羽@Summer Pockets",
+    ],
+    [
+        "阿尼亚·福杰@间谍过家家 Season 3",
+    ],
+    [
+        "甘织玲奈子@我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
+        "织玲奈子@我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
+    ],
+    [
+        "紫云寺讴华@紫云寺家的孩子们",
+    ],
+]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group]]
+[[round.group.thread]]
+name = "半决赛结果"
+path = "raw/03_半决赛结果"
+thread_type = "PollResult"
+
+[[round]]
+name = "第四轮"
+
+[[round.group]]
+[[round.group.thread]]
+name = "总决赛"
+path = "raw/04_总决赛"
+choices = [["千早爱音@BanG Dream! Ave Mujica"], ["喜多川海梦@更衣人偶坠入爱河 Season 2"]]
+max_choice = 1
+thread_type = "Poll"
+
+[[round.group]]
+[[round.group.thread]]
+name = "排位赛第二场"
+path = "raw/04_排位赛第二场"
+choices = [
+    [
+        "樱岛麻衣@青春猪头少年不做迷你裙圣诞老人的梦",
+    ],
+    [
+        "猫猫@药师少女的独语 第2期",
+    ],
+    [
+        "鸣濑白羽@Summer Pockets",
+    ],
+]
 max_choice = 1
 thread_type = "Poll"

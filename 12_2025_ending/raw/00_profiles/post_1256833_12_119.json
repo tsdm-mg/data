@@ -27,21 +27,21 @@
   "check_in_next_level_days": "16",
   "check_in_today_status": "今天未签到",
   "moderator_group": null,
-  "user_group": "片翼天使LV.2",
+  "user_group": "水天使",
   "online_time": "105 小时",
   "register_time": "2021-1-2 18:44",
-  "last_visit_time": "2026-1-9 22:21",
-  "last_active_time": "2026-1-9 22:15",
-  "last_post_time": "2026-1-9 22:22",
+  "last_visit_time": "2026-1-25 20:25",
+  "last_active_time": "2026-1-25 20:25",
+  "last_post_time": "2026-1-19 08:44",
   "timezone": "使用系统默认",
   "credits": {
-    "天然": "40",
-    "腹黑": "40",
-    "积分": "387",
-    "宣传": "0",
+    "腹黑": "45",
     "魔法石": "0",
+    "积分": "407",
+    "天使币": "1907",
+    "宣传": "0",
+    "天然": "45",
     "精灵": "0",
-    "威望": "387",
-    "天使币": "1867"
+    "威望": "407"
   }
 }

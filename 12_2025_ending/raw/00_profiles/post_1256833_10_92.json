@@ -18,7 +18,7 @@
   "from_where": "牧场",
   "qq": "2644485130",
   "check_in_days_count": 20,
-  "check_in_this_month_count": "2",
+  "check_in_this_month_count": "0",
   "check_in_recent_time": "2026-01-05 18:02",
   "check_in_all_coins": "138",
   "check_in_last_time_coins": "[LV.5]常住居民I",
@@ -35,13 +35,13 @@
   "last_post_time": "2026-1-5 18:02",
   "timezone": "使用系统默认",
   "credits": {
-    "威望": "300",
     "宣传": "0",
-    "天使币": "315",
-    "天然": "40",
-    "精灵": "0",
+    "天然": "55",
+    "积分": "315",
+    "腹黑": "50",
+    "天使币": "345",
+    "威望": "315",
     "魔法石": "0",
-    "积分": "300",
-    "腹黑": "35"
+    "精灵": "0"
   }
 }

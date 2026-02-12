@@ -18,7 +18,7 @@
   "from_where": "广东",
   "qq": null,
   "check_in_days_count": 15,
-  "check_in_this_month_count": "4",
+  "check_in_this_month_count": "0",
   "check_in_recent_time": "2026-01-05 15:09",
   "check_in_all_coins": "116",
   "check_in_last_time_coins": "[LV.5]常住居民I",
@@ -35,13 +35,13 @@
   "last_post_time": "2026-1-5 15:09",
   "timezone": "使用系统默认",
   "credits": {
-    "天然": "49",
-    "威望": "300",
-    "宣传": "0",
-    "积分": "300",
-    "腹黑": "44",
-    "精灵": "0",
+    "威望": "320",
     "魔法石": "0",
-    "天使币": "334"
+    "精灵": "0",
+    "宣传": "0",
+    "腹黑": "59",
+    "积分": "320",
+    "天使币": "374",
+    "天然": "64"
   }
 }

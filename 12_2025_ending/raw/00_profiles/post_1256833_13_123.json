@@ -18,7 +18,7 @@
   "from_where": "香港",
   "qq": null,
   "check_in_days_count": 1649,
-  "check_in_this_month_count": "1",
+  "check_in_this_month_count": "0",
   "check_in_recent_time": "2026-01-10 02:42",
   "check_in_all_coins": "12138",
   "check_in_last_time_coins": null,
@@ -35,13 +35,13 @@
   "last_post_time": "2026-1-10 03:56",
   "timezone": "(GMT +08:00) 北京, 香港, 帕斯, 新加坡, 台北",
   "credits": {
-    "威望": "2323",
-    "精灵": "0",
-    "腹黑": "55",
-    "天使币": "13291",
+    "积分": "2343",
+    "威望": "2343",
     "宣传": "100",
-    "天然": "55",
-    "积分": "2323",
-    "魔法石": "0"
+    "魔法石": "0",
+    "精灵": "0",
+    "天然": "70",
+    "腹黑": "70",
+    "天使币": "13331"
   }
 }
